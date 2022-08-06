@@ -4,14 +4,14 @@ You can use this tool to convert the results from Youtube Search API (JSON) into
 
 Of course, it's still in progress.
 
-* @author: eartahhj - www.liberamenteweb.it - https://www.youtube.com/GamingHouseYT
+* @author: eartahhj - www.codinghouse.it - www.gaminghouse.community - https://www.youtube.com/GamingHouseYT
 * @version: 1.0
 * @phpversion: 7.3
-* @lastUpdate: (dd/mm/yyyy) 07/12/2019
+* @lastUpdate: 2019-12-07
 * @docs: Youtube Data API v3 => https://developers.google.com/youtube/v3/docs/search
 * @api: To use this, you need to setup your own Youtube Data API Key at https://console.cloud.google.com
 *
-* @donate: If you want, you can buy me a coffe by donating at https://www.paypal.me/chrmar - Thank you!
+* @donate: If you want, you can buy me a coffe by donating at https://liberapay.com/GamingHouse/donate - Thank you!
 
 USAGE:
 1) Create a Youtube Data API Key by registering at https://console.cloud.google.com
